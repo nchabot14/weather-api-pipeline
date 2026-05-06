@@ -1,10 +1,13 @@
+import os
 import requests
 import json
 import time
 import pandas as pd
 from pathlib import Path
+from dotenv import load_dotenv
 
-api_key = "3c6d3ed6181a4f85965204140260605"
+load_dotenv()
+api_key = os.environ["WEATHER_API_KEY"]
 
 api_url = "https://api.weatherapi.com/v1/forecast.json"
 
