@@ -1,61 +1,61 @@
 zip_code,city,region,date,max_temp_f,min_temp_f,condition
-90045,Los Angeles,California,2026-06-17,73.1,60.6,Patchy rain nearby
-90045,Los Angeles,California,2026-06-18,71.5,64.1,Sunny
-90045,Los Angeles,California,2026-06-19,69.2,62.3,Sunny
-10001,New York,New York,2026-06-17,84.0,59.0,Sunny
-10001,New York,New York,2026-06-18,91.3,70.6,Patchy rain nearby
-10001,New York,New York,2026-06-19,82.1,68.3,Partly Cloudy
-60601,Chicago,Illinois,2026-06-17,65.0,54.1,Heavy rain
-60601,Chicago,Illinois,2026-06-18,69.3,57.8,Patchy rain nearby
-60601,Chicago,Illinois,2026-06-19,69.3,58.9,Sunny
-98101,Seattle,Washington,2026-06-17,74.4,53.1,Sunny
-98101,Seattle,Washington,2026-06-18,77.6,49.3,Sunny
-98101,Seattle,Washington,2026-06-19,82.4,53.6,Sunny
-33101,Miami,Florida,2026-06-17,95.4,78.8,Patchy rain nearby
-33101,Miami,Florida,2026-06-18,87.8,83.7,Patchy rain nearby
-33101,Miami,Florida,2026-06-19,88.2,83.0,Patchy rain nearby
-02108,Boston,Massachusetts,2026-06-17,82.9,57.4,Patchy rain nearby
-02108,Boston,Massachusetts,2026-06-18,77.9,60.9,Moderate rain
-02108,Boston,Massachusetts,2026-06-19,83.7,64.5,Sunny
-19103,Philadelphia,Pennsylvania,2026-06-17,89.1,62.1,Sunny
-19103,Philadelphia,Pennsylvania,2026-06-18,92.4,73.0,Patchy rain nearby
-19103,Philadelphia,Pennsylvania,2026-06-19,76.9,67.5,Sunny
-75201,Dallas,Texas,2026-06-17,95.9,74.8,Sunny
-75201,Dallas,Texas,2026-06-18,99.9,76.1,Partly Cloudy
-75201,Dallas,Texas,2026-06-19,89.7,73.0,Moderate rain
-77002,Houston,Texas,2026-06-17,88.2,76.8,Moderate rain
-77002,Houston,Texas,2026-06-18,92.2,78.4,Patchy rain nearby
-77002,Houston,Texas,2026-06-19,93.0,79.6,Patchy rain nearby
-85001,Phoenix,Arizona,2026-06-17,110.3,86.0,Blowing dust
-85001,Phoenix,Arizona,2026-06-18,105.7,87.5,Dust haze
-85001,Phoenix,Arizona,2026-06-19,106.2,85.5,Dust haze
-80202,Denver,Colorado,2026-06-17,97.5,69.8,Sunny
-80202,Denver,Colorado,2026-06-18,86.2,61.4,Sunny
-80202,Denver,Colorado,2026-06-19,93.3,63.4,Sunny
-30303,Atlanta,Georgia,2026-06-17,88.0,68.7,Moderate rain
-30303,Atlanta,Georgia,2026-06-18,74.1,68.2,Heavy rain
-30303,Atlanta,Georgia,2026-06-19,79.0,70.5,Moderate rain
-20001,Washington,District of Columbia,2026-06-17,91.0,64.6,Sunny
-20001,Washington,District of Columbia,2026-06-18,93.2,72.6,Patchy rain nearby
-20001,Washington,District of Columbia,2026-06-19,73.2,63.9,Moderate rain
-94102,San Francisco,California,2026-06-17,64.6,56.5,Overcast
-94102,San Francisco,California,2026-06-18,64.5,56.2,Sunny
-94102,San Francisco,California,2026-06-19,63.3,56.4,Patchy rain nearby
-89101,Las Vegas,Nevada,2026-06-17,113.4,82.4,Sunny
-89101,Las Vegas,Nevada,2026-06-18,106.1,74.3,Sunny
-89101,Las Vegas,Nevada,2026-06-19,102.3,71.0,Sunny
-97201,Portland,Oregon,2026-06-17,81.0,53.8,Sunny
-97201,Portland,Oregon,2026-06-18,81.9,51.2,Partly Cloudy
-97201,Portland,Oregon,2026-06-19,88.4,55.5,Sunny
-55401,Minneapolis,Minnesota,2026-06-17,67.6,54.1,Heavy rain
-55401,Minneapolis,Minnesota,2026-06-18,67.2,51.7,Overcast
-55401,Minneapolis,Minnesota,2026-06-19,71.2,50.4,Patchy rain nearby
-63101,Saint Louis,Missouri,2026-06-17,98.1,63.0,Moderate rain
-63101,Saint Louis,Missouri,2026-06-18,77.4,65.1,Patchy rain nearby
-63101,Saint Louis,Missouri,2026-06-19,79.1,59.8,Sunny
-78701,Austin,Texas,2026-06-17,93.0,75.2,Sunny
-78701,Austin,Texas,2026-06-18,98.9,76.1,Sunny
-78701,Austin,Texas,2026-06-19,91.1,78.8,Patchy rain nearby
-37201,Nashville,Tennessee,2026-06-17,93.7,64.0,Sunny
-37201,Nashville,Tennessee,2026-06-18,82.5,71.1,Patchy rain nearby
-37201,Nashville,Tennessee,2026-06-19,77.9,64.5,Patchy rain nearby
+90045,Los Angeles,California,2026-06-18,68.8,61.9,Patchy rain nearby
+90045,Los Angeles,California,2026-06-19,68.8,62.2,Sunny
+90045,Los Angeles,California,2026-06-20,68.8,61.7,Sunny
+10001,New York,New York,2026-06-18,96.6,68.2,Patchy rain nearby
+10001,New York,New York,2026-06-19,84.9,67.0,Sunny
+10001,New York,New York,2026-06-20,81.4,63.6,Sunny
+60601,Chicago,Illinois,2026-06-18,69.5,56.7,Sunny
+60601,Chicago,Illinois,2026-06-19,69.2,58.7,Sunny
+60601,Chicago,Illinois,2026-06-20,73.3,59.8,Partly Cloudy
+98101,Seattle,Washington,2026-06-18,76.8,53.2,Sunny
+98101,Seattle,Washington,2026-06-19,81.6,55.3,Partly Cloudy
+98101,Seattle,Washington,2026-06-20,81.0,52.5,Sunny
+33101,Miami,Florida,2026-06-18,95.0,81.0,Sunny
+33101,Miami,Florida,2026-06-19,87.6,84.2,Patchy rain nearby
+33101,Miami,Florida,2026-06-20,87.4,75.0,Heavy rain
+02108,Boston,Massachusetts,2026-06-18,81.7,62.1,Patchy rain nearby
+02108,Boston,Massachusetts,2026-06-19,82.4,63.5,Sunny
+02108,Boston,Massachusetts,2026-06-20,76.7,61.3,Partly Cloudy
+19103,Philadelphia,Pennsylvania,2026-06-18,97.2,69.8,Patchy rain nearby
+19103,Philadelphia,Pennsylvania,2026-06-19,82.3,66.4,Sunny
+19103,Philadelphia,Pennsylvania,2026-06-20,79.7,62.3,Sunny
+75201,Dallas,Texas,2026-06-18,98.7,76.1,Sunny
+75201,Dallas,Texas,2026-06-19,91.6,73.4,Moderate rain
+75201,Dallas,Texas,2026-06-20,93.7,76.7,Moderate rain
+77002,Houston,Texas,2026-06-18,97.0,78.4,Sunny
+77002,Houston,Texas,2026-06-19,95.1,79.6,Partly Cloudy
+77002,Houston,Texas,2026-06-20,92.6,79.4,Patchy rain nearby
+85001,Phoenix,Arizona,2026-06-18,110.7,81.0,Dust haze
+85001,Phoenix,Arizona,2026-06-19,105.2,85.5,Dust haze
+85001,Phoenix,Arizona,2026-06-20,102.7,83.3,Sunny
+80202,Denver,Colorado,2026-06-18,89.6,60.0,Sunny
+80202,Denver,Colorado,2026-06-19,83.7,63.3,Patchy rain nearby
+80202,Denver,Colorado,2026-06-20,93.9,64.1,Sunny
+30303,Atlanta,Georgia,2026-06-18,87.4,69.6,Patchy rain nearby
+30303,Atlanta,Georgia,2026-06-19,80.7,70.2,Moderate rain
+30303,Atlanta,Georgia,2026-06-20,90.7,68.6,Sunny
+20001,Washington,District of Columbia,2026-06-18,99.9,73.4,Patchy rain nearby
+20001,Washington,District of Columbia,2026-06-19,86.6,68.3,Sunny
+20001,Washington,District of Columbia,2026-06-20,81.7,61.3,Sunny
+94102,San Francisco,California,2026-06-18,66.7,55.0,Overcast
+94102,San Francisco,California,2026-06-19,64.1,57.2,Patchy rain nearby
+94102,San Francisco,California,2026-06-20,63.3,55.0,Sunny
+89101,Las Vegas,Nevada,2026-06-18,112.3,80.1,Sunny
+89101,Las Vegas,Nevada,2026-06-19,102.1,71.5,Sunny
+89101,Las Vegas,Nevada,2026-06-20,99.7,66.8,Sunny
+97201,Portland,Oregon,2026-06-18,88.5,53.8,Sunny
+97201,Portland,Oregon,2026-06-19,89.8,55.6,Sunny
+97201,Portland,Oregon,2026-06-20,81.5,52.1,Sunny
+55401,Minneapolis,Minnesota,2026-06-18,73.4,53.4,Patchy rain nearby
+55401,Minneapolis,Minnesota,2026-06-19,68.0,50.2,Patchy rain nearby
+55401,Minneapolis,Minnesota,2026-06-20,71.0,51.6,Sunny
+63101,Saint Louis,Missouri,2026-06-18,84.9,63.8,Patchy rain nearby
+63101,Saint Louis,Missouri,2026-06-19,81.1,60.1,Sunny
+63101,Saint Louis,Missouri,2026-06-20,83.8,64.8,Sunny
+78701,Austin,Texas,2026-06-18,98.4,76.5,Sunny
+78701,Austin,Texas,2026-06-19,94.9,79.0,Patchy rain nearby
+78701,Austin,Texas,2026-06-20,97.5,76.7,Patchy rain nearby
+37201,Nashville,Tennessee,2026-06-18,91.8,70.4,Patchy rain nearby
+37201,Nashville,Tennessee,2026-06-19,79.0,64.1,Patchy rain nearby
+37201,Nashville,Tennessee,2026-06-20,85.0,63.4,Sunny
