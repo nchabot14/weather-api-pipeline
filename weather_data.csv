@@ -1,61 +1,61 @@
 zip_code,city,region,date,max_temp_f,min_temp_f,condition
-90045,Los Angeles,California,2026-09-17,73.2,66.7,Sunny
-90045,Los Angeles,California,2026-09-18,73.1,65.9,Sunny
-90045,Los Angeles,California,2026-09-19,75.9,67.2,Sunny
-10001,New York,New York,2026-09-17,84.2,71.0,Sunny
-10001,New York,New York,2026-09-18,83.9,69.3,Sunny
-10001,New York,New York,2026-09-19,68.1,59.5,Overcast
-60601,Chicago,Illinois,2026-09-17,70.2,64.8,Patchy rain nearby
-60601,Chicago,Illinois,2026-09-18,71.0,63.6,Sunny
-60601,Chicago,Illinois,2026-09-19,81.7,64.8,Light rain shower
-98101,Seattle,Washington,2026-09-17,76.9,54.6,Sunny
-98101,Seattle,Washington,2026-09-18,74.5,53.5,Sunny
-98101,Seattle,Washington,2026-09-19,74.1,52.5,Overcast
-33101,Miami,Florida,2026-09-17,87.5,81.8,Patchy rain nearby
-33101,Miami,Florida,2026-09-18,87.6,79.8,Light rain shower
-33101,Miami,Florida,2026-09-19,88.0,83.0,Overcast
-02108,Boston,Massachusetts,2026-09-17,77.8,64.0,Sunny
-02108,Boston,Massachusetts,2026-09-18,75.6,60.4,Sunny
-02108,Boston,Massachusetts,2026-09-19,59.2,53.9,Overcast
-19103,Philadelphia,Pennsylvania,2026-09-17,87.5,68.5,Sunny
-19103,Philadelphia,Pennsylvania,2026-09-18,82.6,68.9,Sunny
-19103,Philadelphia,Pennsylvania,2026-09-19,71.2,61.3,Overcast
-75201,Dallas,Texas,2026-09-17,98.2,83.1,Overcast
-75201,Dallas,Texas,2026-09-18,100.2,82.8,Sunny
-75201,Dallas,Texas,2026-09-19,98.5,80.6,Sunny
-77002,Houston,Texas,2026-09-17,91.0,79.6,Overcast
-77002,Houston,Texas,2026-09-18,93.0,79.2,Sunny
-77002,Houston,Texas,2026-09-19,94.1,79.0,Sunny
-85001,Phoenix,Arizona,2026-09-17,90.0,75.3,Overcast
-85001,Phoenix,Arizona,2026-09-18,95.4,84.1,Sunny
-85001,Phoenix,Arizona,2026-09-19,97.2,85.5,Sunny
-80202,Denver,Colorado,2026-09-17,81.9,69.0,Overcast
-80202,Denver,Colorado,2026-09-18,80.4,65.0,Overcast
-80202,Denver,Colorado,2026-09-19,83.9,60.7,Sunny
-30303,Atlanta,Georgia,2026-09-17,91.3,69.6,Sunny
-30303,Atlanta,Georgia,2026-09-18,95.4,75.0,Sunny
-30303,Atlanta,Georgia,2026-09-19,88.8,71.3,Light rain shower
-20001,Washington,District of Columbia,2026-09-17,92.3,68.0,Sunny
-20001,Washington,District of Columbia,2026-09-18,85.3,70.7,Mist
-20001,Washington,District of Columbia,2026-09-19,79.9,64.1,Overcast
-94102,San Francisco,California,2026-09-17,65.0,60.7,Patchy rain nearby
-94102,San Francisco,California,2026-09-18,64.1,58.7,Sunny
-94102,San Francisco,California,2026-09-19,62.9,58.0,Partly Cloudy
-89101,Las Vegas,Nevada,2026-09-17,86.2,68.5,Sunny
-89101,Las Vegas,Nevada,2026-09-18,88.9,72.3,Sunny
-89101,Las Vegas,Nevada,2026-09-19,87.2,71.7,Sunny
-97201,Portland,Oregon,2026-09-17,81.9,57.1,Sunny
-97201,Portland,Oregon,2026-09-18,75.5,55.7,Sunny
-97201,Portland,Oregon,2026-09-19,78.7,53.0,Partly Cloudy
-55401,Minneapolis,Minnesota,2026-09-17,72.0,55.9,Overcast
-55401,Minneapolis,Minnesota,2026-09-18,62.5,52.8,Light rain
-55401,Minneapolis,Minnesota,2026-09-19,55.4,52.4,Overcast
-63101,Saint Louis,Missouri,2026-09-17,97.4,78.6,Sunny
-63101,Saint Louis,Missouri,2026-09-18,96.9,74.4,Sunny
-63101,Saint Louis,Missouri,2026-09-19,93.5,81.1,Overcast
-78701,Austin,Texas,2026-09-17,95.7,78.7,Overcast
-78701,Austin,Texas,2026-09-18,98.2,76.8,Sunny
-78701,Austin,Texas,2026-09-19,97.2,72.9,Sunny
-37201,Nashville,Tennessee,2026-09-17,95.2,78.2,Sunny
-37201,Nashville,Tennessee,2026-09-18,97.3,78.9,Sunny
-37201,Nashville,Tennessee,2026-09-19,95.1,79.2,Sunny
+90045,Los Angeles,California,2026-09-18,72.2,66.5,Sunny
+90045,Los Angeles,California,2026-09-19,76.1,67.6,Sunny
+90045,Los Angeles,California,2026-09-20,74.9,67.3,Overcast
+10001,New York,New York,2026-09-18,83.6,71.6,Overcast
+10001,New York,New York,2026-09-19,72.0,61.2,Sunny
+10001,New York,New York,2026-09-20,67.8,64.2,Overcast
+60601,Chicago,Illinois,2026-09-18,68.7,63.2,Partly Cloudy
+60601,Chicago,Illinois,2026-09-19,66.3,60.4,Light rain shower
+60601,Chicago,Illinois,2026-09-20,66.8,61.0,Light rain shower
+98101,Seattle,Washington,2026-09-18,75.5,54.5,Sunny
+98101,Seattle,Washington,2026-09-19,76.1,53.1,Sunny
+98101,Seattle,Washington,2026-09-20,75.2,52.7,Sunny
+33101,Miami,Florida,2026-09-18,88.3,82.4,Patchy rain nearby
+33101,Miami,Florida,2026-09-19,87.8,83.1,Overcast
+33101,Miami,Florida,2026-09-20,88.7,83.4,Light rain shower
+02108,Boston,Massachusetts,2026-09-18,77.8,63.8,Overcast
+02108,Boston,Massachusetts,2026-09-19,62.4,52.2,Overcast
+02108,Boston,Massachusetts,2026-09-20,66.2,50.5,Overcast
+19103,Philadelphia,Pennsylvania,2026-09-18,76.9,69.2,Overcast
+19103,Philadelphia,Pennsylvania,2026-09-19,75.6,60.7,Sunny
+19103,Philadelphia,Pennsylvania,2026-09-20,74.4,62.4,Overcast
+75201,Dallas,Texas,2026-09-18,99.8,82.6,Sunny
+75201,Dallas,Texas,2026-09-19,98.7,80.3,Sunny
+75201,Dallas,Texas,2026-09-20,98.3,78.8,Overcast
+77002,Houston,Texas,2026-09-18,92.2,78.0,Sunny
+77002,Houston,Texas,2026-09-19,92.1,78.4,Sunny
+77002,Houston,Texas,2026-09-20,94.5,79.0,Sunny
+85001,Phoenix,Arizona,2026-09-18,96.2,82.8,Sunny
+85001,Phoenix,Arizona,2026-09-19,97.0,85.1,Sunny
+85001,Phoenix,Arizona,2026-09-20,96.0,84.1,Overcast
+80202,Denver,Colorado,2026-09-18,82.6,66.4,Overcast
+80202,Denver,Colorado,2026-09-19,83.6,63.0,Sunny
+80202,Denver,Colorado,2026-09-20,74.8,60.4,Sunny
+30303,Atlanta,Georgia,2026-09-18,95.6,75.5,Sunny
+30303,Atlanta,Georgia,2026-09-19,92.9,73.4,Patchy rain nearby
+30303,Atlanta,Georgia,2026-09-20,89.5,71.0,Partly Cloudy
+20001,Washington,District of Columbia,2026-09-18,83.7,70.7,Patchy rain nearby
+20001,Washington,District of Columbia,2026-09-19,77.9,63.4,Overcast
+20001,Washington,District of Columbia,2026-09-20,80.5,65.9,Patchy rain nearby
+94102,San Francisco,California,2026-09-18,64.5,59.3,Sunny
+94102,San Francisco,California,2026-09-19,64.6,58.7,Partly Cloudy
+94102,San Francisco,California,2026-09-20,60.9,58.5,Overcast
+89101,Las Vegas,Nevada,2026-09-18,87.9,72.6,Sunny
+89101,Las Vegas,Nevada,2026-09-19,85.7,71.0,Sunny
+89101,Las Vegas,Nevada,2026-09-20,88.2,74.0,Overcast
+97201,Portland,Oregon,2026-09-18,76.2,56.9,Sunny
+97201,Portland,Oregon,2026-09-19,77.8,54.5,Sunny
+97201,Portland,Oregon,2026-09-20,79.9,53.6,Sunny
+55401,Minneapolis,Minnesota,2026-09-18,61.8,54.8,Overcast
+55401,Minneapolis,Minnesota,2026-09-19,57.6,54.3,Light rain shower
+55401,Minneapolis,Minnesota,2026-09-20,67.9,55.1,Overcast
+63101,Saint Louis,Missouri,2026-09-18,96.8,76.6,Sunny
+63101,Saint Louis,Missouri,2026-09-19,92.2,77.6,Overcast
+63101,Saint Louis,Missouri,2026-09-20,94.2,76.1,Overcast
+78701,Austin,Texas,2026-09-18,96.0,77.9,Overcast
+78701,Austin,Texas,2026-09-19,97.6,74.3,Sunny
+78701,Austin,Texas,2026-09-20,98.9,74.2,Overcast
+37201,Nashville,Tennessee,2026-09-18,95.8,79.7,Sunny
+37201,Nashville,Tennessee,2026-09-19,98.6,80.2,Sunny
+37201,Nashville,Tennessee,2026-09-20,94.1,76.9,Overcast
